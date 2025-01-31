@@ -45,4 +45,4 @@
 - RP2040 (Dual-core ARM Cortex-M0+).
 - Protocolo WS2812 (NeoPixel) para LEDs endereçáveis.
 
-## DESEVOLVIDO POR CÉSAR REBOUÇAS COSTA
+## DESENVOLVIDO POR CÉSAR REBOUÇAS COSTA
